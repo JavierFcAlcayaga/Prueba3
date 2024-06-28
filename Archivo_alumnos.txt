@@ -1,0 +1,6 @@
+Nombre: fran
+Apellido: cisco
+Edad: 20
+Nivel: 1ro
+Notas: [1, 5]
+
